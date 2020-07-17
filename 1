@@ -1,0 +1,8 @@
+const express = require('express')
+const app_thing = express()
+app_thing.use(express.static('stuff/');
+app_thing.listen('5025', () => {});
+const {app, BrowserWindow} = require('electron');
+app.on('ready', () => {
+   new BrowserWindow().loadURL('http://localhost:5025');
+});
