@@ -1,5 +1,5 @@
 var macplus = require('pcejs-macplus')
-var utils = require('pcejs-util'):wq! 
+var utils = require('pcejs-util')//:wq! 
 // add a loading progress bar. not required, but good ux
 var loadingStatus = utils.loadingStatus(document.querySelector('.pcejs-loading-status'))
  
