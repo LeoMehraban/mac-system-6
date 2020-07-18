@@ -20,9 +20,9 @@ to run in dev mode:
 
 `electron .` or to build, `electron-packager . "MacOS System 6" && cp icon.icns "MacOS System 6-darwin-x64/MacOS System 6.app/Contents/Resources/electron.icns"`
 
-currently, this is the only way to install. and it only works for mac.
 
-BUT: this link might work: https://www.icloud.com/iclouddrive/0-kVjG2rTWphjT0XFY4ZHnHKQ#MacOS_System_6.app
 
-click on "Download a copy"
+this is the download link:https://www.icloud.com/iclouddrive/0-kVjG2rTWphjT0XFY4ZHnHKQ#MacOS_System_6.app
+
+when link loads: click on "Download a copy"
 
