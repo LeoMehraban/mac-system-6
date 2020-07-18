@@ -23,4 +23,5 @@ to run in dev mode:
 currently, this is the only way to install. and it only works for mac.
 
 BUT: this link might work: https://www.icloud.com/iclouddrive/0-kVjG2rTWphjT0XFY4ZHnHKQ#MacOS_System_6.app
+click on "Download a copy"
 
