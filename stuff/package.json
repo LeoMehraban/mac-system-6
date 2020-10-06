@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron": "^9.1.0",
+    "electron": "^9.3.0",
     "pcejs-macplus": "^0.1.7",
     "pcejs-util": "^0.1.1"
   }
